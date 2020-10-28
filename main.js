@@ -13,13 +13,13 @@ let questions = [
   },
     {
     numb: 2,
-    question: "Most modern TV's draw power even if turned off. The circuit the power is used in does what function?",
-    answer: "Remote control",
+    question: "Which one of the following is the first Search Engine in Internet",
+    answer: "Archie",
     options: [
-      "Sound",
-      "Remote control",
-      "Color balance",
-      "High voltage"
+      "AltaVista",
+      "Archie",
+      "AOL",
+      "Yahoo"
     ]
   },
     {
@@ -35,13 +35,13 @@ let questions = [
   },
     {
     numb: 4,
-    question: "Internet is governed by",
-    answer: "None of these",
+    question: "Which One of these is the first Web browser invented in 1990",
+    answer: "Nexus",
     options: [
-      "I & B",
-      "IETF",
-      "Inter NIC",
-      "None of these"
+      "Internet Explorer",
+      "Mosaic",
+      "Lynx",
+      "Netscape"
     ]
   },
     {
@@ -57,13 +57,13 @@ let questions = [
   },
   {
     numb: 6,
-    question: "Which of the following Indian Mobile app clinched the bronze medal at the Technovation Challenge?",
-    answer: "Maitri",
+    question: "Which one is the first fully supported 64-bit Operating System?",
+    answer: "Linux",
     options: [
-      "Maitri",
-      "VithU",
-      "Nirbhaya",
-      "YatraMiTR"
+      "Linux",
+      "Mac OS",
+      "Windows Vista",
+      "Windows XP"
     ]
   },
   {
@@ -189,13 +189,13 @@ let questions = [
   },
   {
     numb: 18,
-    question: "Which technology company has dropped facial recognition software amid racial profiling concerns?",
-    answer: "IBM",
+    question: "Who is the founder of Bluetooth?",
+    answer: "Ericsson",
     options: [
-      "Google",
+      "Dell",
       "IBM",
-      "Oracle",
-      "Intel"
+      "Ericsson",
+      "Nokia"
     ]
   },
   {
@@ -225,7 +225,7 @@ let questions = [
 
 //Prevent Tab change
 
-alert("Please Note: DO NOT TRY TO CHANGE TAB MORE THAN 2 TIME OR YOU WILL BE ELIMINATED")
+/*alert("Please Note: DO NOT TRY TO CHANGE TAB MORE THAN 2 TIME OR YOU WILL BE ELIMINATED")
 var i=0;
 window.addEventListener('blur',function(increase)
 {
@@ -241,7 +241,7 @@ alert("Please Go Away ! You have been warned");
 self.close();
 		} 
 }
-)
+)*/
 
 
 //selecting all required elements
