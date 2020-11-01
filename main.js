@@ -36,7 +36,7 @@ let questions = [
     {
     numb: 4,
     question: "Which One of these is the first Web browser invented in 1990",
-    answer: "Nexus",
+    answer: "Mosaic",
     options: [
       "Internet Explorer",
       "Mosaic",
